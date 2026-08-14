@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/adityachaurasia1676/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 <!---LeetCode Topics End-->
