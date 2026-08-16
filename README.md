@@ -47,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0607-sales-person](https://github.com/adityachaurasia1676/LeetCode/tree/main/0607-sales-person/) | Easy |
 <!---LeetCode Topics End-->
