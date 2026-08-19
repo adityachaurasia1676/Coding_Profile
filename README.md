@@ -87,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/adityachaurasia1676/LeetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 <!---LeetCode Topics End-->
