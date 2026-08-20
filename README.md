@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/adityachaurasia1676/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityachaurasia1676/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/adityachaurasia1676/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Simulation
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/adityachaurasia1676/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/adityachaurasia1676/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/adityachaurasia1676/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
+| [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Linked List
