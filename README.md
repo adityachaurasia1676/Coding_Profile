@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0198-house-robber](https://github.com/adityachaurasia1676/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/adityachaurasia1676/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/adityachaurasia1676/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -242,4 +244,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
