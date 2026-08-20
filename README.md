@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/adityachaurasia1676/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/adityachaurasia1676/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/adityachaurasia1676/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/adityachaurasia1676/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/adityachaurasia1676/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
