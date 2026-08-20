@@ -112,11 +112,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/adityachaurasia1676/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/adityachaurasia1676/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/adityachaurasia1676/LeetCode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
