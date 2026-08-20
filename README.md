@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/adityachaurasia1676/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/adityachaurasia1676/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/adityachaurasia1676/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/adityachaurasia1676/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/adityachaurasia1676/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/adityachaurasia1676/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
