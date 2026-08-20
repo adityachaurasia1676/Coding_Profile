@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/adityachaurasia1676/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0495-teemo-attacking](https://github.com/adityachaurasia1676/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/adityachaurasia1676/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/adityachaurasia1676/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0495-teemo-attacking](https://github.com/adityachaurasia1676/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Linked List
