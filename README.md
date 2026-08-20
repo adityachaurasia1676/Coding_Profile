@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityachaurasia1676/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityachaurasia1676/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/adityachaurasia1676/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/adityachaurasia1676/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
@@ -191,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/adityachaurasia1676/LeetCode/tree/main/0274-h-index/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/adityachaurasia1676/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
