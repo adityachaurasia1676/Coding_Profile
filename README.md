@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/adityachaurasia1676/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/adityachaurasia1676/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/adityachaurasia1676/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/adityachaurasia1676/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/adityachaurasia1676/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/adityachaurasia1676/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/adityachaurasia1676/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+| [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
