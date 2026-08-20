@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/adityachaurasia1676/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/adityachaurasia1676/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/adityachaurasia1676/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0414-third-maximum-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
