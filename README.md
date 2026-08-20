@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/adityachaurasia1676/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/adityachaurasia1676/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/adityachaurasia1676/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,8 +304,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/adityachaurasia1676/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/adityachaurasia1676/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
