@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/adityachaurasia1676/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0397-integer-replacement](https://github.com/adityachaurasia1676/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/adityachaurasia1676/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/adityachaurasia1676/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/adityachaurasia1676/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/adityachaurasia1676/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
