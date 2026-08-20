@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/adityachaurasia1676/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
