@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,12 +51,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/adityachaurasia1676/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/adityachaurasia1676/LeetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 <!---LeetCode Topics End-->
