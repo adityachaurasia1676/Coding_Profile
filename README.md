@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/adityachaurasia1676/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/adityachaurasia1676/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/adityachaurasia1676/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/adityachaurasia1676/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
