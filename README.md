@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/adityachaurasia1676/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/adityachaurasia1676/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/adityachaurasia1676/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/adityachaurasia1676/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/adityachaurasia1676/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/adityachaurasia1676/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/adityachaurasia1676/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/adityachaurasia1676/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/adityachaurasia1676/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
