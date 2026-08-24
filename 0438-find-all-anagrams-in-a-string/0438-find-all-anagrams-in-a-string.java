@@ -1,31 +1,32 @@
 class Solution {
-    
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> res = new ArrayList<>() ;
-       int n = s.length() ;
-       int m = p.length() ;
+        List<Integer> list = new ArrayList<>() ;
+        if(s.length() < p.length()) return list ;
+        Map<Character, Integer> pmap = new HashMap<>() ;
+        Map<Character, Integer> windowMap = new HashMap<>() ;
 
-        if(n < m) return res ;
+        for(char c : p.toCharArray()){
+            pmap.put(c, pmap.getOrDefault(c, 0) + 1) ;
+        }
 
-        int[] freq1 = new int[26] ;
-        int[] freq2 = new int[26] ;
-
-        for(int i = 0 ;i < m ;i++){
-            freq1[p.charAt(i) - 'a']++ ;
-            freq2[s.charAt(i) - 'a']++ ;
+        int left = 0 , right = 0 ;
+        int m = p.length() ;
+        while( right < s.length()){
+            char chr = s.charAt(right) ;
+            windowMap.put(chr,windowMap.getOrDefault(chr,0) + 1) ;
+            if(right - left + 1 == m){
+                if(windowMap.equals(pmap)){
+                    list.add(left) ;
+                }
+                char chl = s.charAt(left) ;
+                windowMap.put(chl, windowMap.get(chl) - 1) ;
+                if(windowMap.get(chl) == 0){
+                    windowMap.remove(chl) ;
+                }
+                left++ ;
+            }
+            right++ ;
         }
-        if(Arrays.equals(freq1,freq2)){
-            res.add(0) ;
-        }
-        
-        for(int i = m ; i < n ;i++){
-            freq2[s.charAt(i) - 'a']++ ;
-            freq2[s.charAt(i - m) - 'a']-- ;
-            if(Arrays.equals(freq1, freq2)){
-            res.add(i - m + 1) ;
-        }
-        }
-        
-    return res ;
+        return list ;
     }
 }
