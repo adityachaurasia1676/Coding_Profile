@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/adityachaurasia1676/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/adityachaurasia1676/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
