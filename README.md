@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adityachaurasia1676/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/adityachaurasia1676/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adityachaurasia1676/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/adityachaurasia1676/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
