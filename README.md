@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adityachaurasia1676/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adityachaurasia1676/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/adityachaurasia1676/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
