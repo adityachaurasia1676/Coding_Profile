@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/adityachaurasia1676/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/adityachaurasia1676/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0202-happy-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/adityachaurasia1676/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/adityachaurasia1676/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Monotonic Queue
