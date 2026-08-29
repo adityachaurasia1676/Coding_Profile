@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0155-min-stack](https://github.com/adityachaurasia1676/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/adityachaurasia1676/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
@@ -375,4 +376,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/adityachaurasia1676/LeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
