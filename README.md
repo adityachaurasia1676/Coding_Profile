@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/adityachaurasia1676/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/adityachaurasia1676/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/adityachaurasia1676/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/adityachaurasia1676/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
