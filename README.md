@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0665-non-decreasing-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0665-non-decreasing-array/) | Medium |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
