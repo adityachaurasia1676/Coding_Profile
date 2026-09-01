@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/adityachaurasia1676/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/adityachaurasia1676/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/adityachaurasia1676/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityachaurasia1676/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/adityachaurasia1676/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/adityachaurasia1676/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/adityachaurasia1676/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0289-game-of-life](https://github.com/adityachaurasia1676/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0412-fizz-buzz](https://github.com/adityachaurasia1676/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/adityachaurasia1676/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
