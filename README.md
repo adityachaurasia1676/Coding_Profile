@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/adityachaurasia1676/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0607-sales-person](https://github.com/adityachaurasia1676/LeetCode/tree/main/0607-sales-person/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
