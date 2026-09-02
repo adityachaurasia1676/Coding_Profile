@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0771-jewels-and-stones](https://github.com/adityachaurasia1676/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0665-non-decreasing-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0665-non-decreasing-array/) | Medium |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/adityachaurasia1676/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -397,4 +401,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/adityachaurasia1676/LeetCode/tree/main/0155-min-stack/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
