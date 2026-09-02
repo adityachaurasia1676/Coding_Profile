@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0771-jewels-and-stones](https://github.com/adityachaurasia1676/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/adityachaurasia1676/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/adityachaurasia1676/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0665-non-decreasing-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0665-non-decreasing-array/) | Medium |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/adityachaurasia1676/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/adityachaurasia1676/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/adityachaurasia1676/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/adityachaurasia1676/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/adityachaurasia1676/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/adityachaurasia1676/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/adityachaurasia1676/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
