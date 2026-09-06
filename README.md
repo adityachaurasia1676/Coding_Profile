@@ -114,6 +114,7 @@
 | [0001-two-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityachaurasia1676/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityachaurasia1676/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/adityachaurasia1676/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -214,6 +215,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityachaurasia1676/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/adityachaurasia1676/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/adityachaurasia1676/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
@@ -222,6 +224,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/adityachaurasia1676/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0289-game-of-life](https://github.com/adityachaurasia1676/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0412-fizz-buzz](https://github.com/adityachaurasia1676/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
