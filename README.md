@@ -113,6 +113,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0039-combination-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityachaurasia1676/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -412,6 +413,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0494-target-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
