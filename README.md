@@ -266,6 +266,7 @@
 | [0507-perfect-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0836-rectangle-overlap](https://github.com/adityachaurasia1676/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -431,4 +432,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/adityachaurasia1676/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
