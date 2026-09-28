@@ -37,6 +37,7 @@
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/adityachaurasia1676/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -58,10 +59,12 @@
 | [0155-min-stack](https://github.com/adityachaurasia1676/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/adityachaurasia1676/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
