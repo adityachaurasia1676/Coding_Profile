@@ -186,6 +186,7 @@
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/adityachaurasia1676/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0607-sales-person](https://github.com/adityachaurasia1676/LeetCode/tree/main/0607-sales-person/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
