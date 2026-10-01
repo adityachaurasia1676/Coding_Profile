@@ -193,6 +193,7 @@
 | [0584-find-customer-referee](https://github.com/adityachaurasia1676/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/adityachaurasia1676/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/adityachaurasia1676/LeetCode/tree/main/0607-sales-person/) | Easy |
+| [0619-biggest-single-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adityachaurasia1676/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adityachaurasia1676/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
