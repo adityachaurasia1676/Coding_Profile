@@ -109,6 +109,7 @@
 | [0414-third-maximum-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/adityachaurasia1676/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adityachaurasia1676/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/adityachaurasia1676/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Array
@@ -147,6 +148,7 @@
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0665-non-decreasing-array](https://github.com/adityachaurasia1676/LeetCode/tree/main/0665-non-decreasing-array/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/adityachaurasia1676/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/adityachaurasia1676/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
