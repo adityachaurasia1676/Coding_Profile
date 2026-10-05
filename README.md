@@ -123,6 +123,7 @@
 | [0039-combination-sum](https://github.com/adityachaurasia1676/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/adityachaurasia1676/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/adityachaurasia1676/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityachaurasia1676/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityachaurasia1676/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/adityachaurasia1676/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -268,6 +269,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/adityachaurasia1676/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/adityachaurasia1676/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/adityachaurasia1676/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/adityachaurasia1676/LeetCode/tree/main/0258-add-digits/) | Easy |
