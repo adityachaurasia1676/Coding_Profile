@@ -38,6 +38,7 @@
 | [0500-keyboard-row](https://github.com/adityachaurasia1676/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0771-jewels-and-stones](https://github.com/adityachaurasia1676/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/adityachaurasia1676/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [0925-long-pressed-name](https://github.com/adityachaurasia1676/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/adityachaurasia1676/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Dynamic Programming
@@ -226,6 +227,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/adityachaurasia1676/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/adityachaurasia1676/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0925-long-pressed-name](https://github.com/adityachaurasia1676/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
