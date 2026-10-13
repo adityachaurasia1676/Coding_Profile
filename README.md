@@ -26,6 +26,7 @@
 | [0032-longest-valid-parentheses](https://github.com/adityachaurasia1676/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/adityachaurasia1676/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0205-isomorphic-strings](https://github.com/adityachaurasia1676/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/adityachaurasia1676/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityachaurasia1676/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -76,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/adityachaurasia1676/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/adityachaurasia1676/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/adityachaurasia1676/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/adityachaurasia1676/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0202-happy-number](https://github.com/adityachaurasia1676/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/adityachaurasia1676/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/adityachaurasia1676/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -406,6 +408,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/adityachaurasia1676/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0322-coin-change](https://github.com/adityachaurasia1676/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -468,4 +471,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/adityachaurasia1676/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/adityachaurasia1676/LeetCode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
