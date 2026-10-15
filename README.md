@@ -101,6 +101,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/adityachaurasia1676/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adityachaurasia1676/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/adityachaurasia1676/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/adityachaurasia1676/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/adityachaurasia1676/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityachaurasia1676/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityachaurasia1676/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -389,10 +391,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/adityachaurasia1676/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityachaurasia1676/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
